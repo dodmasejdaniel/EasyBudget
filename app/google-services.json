@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "925846579501",
+    "firebase_url": "https://flutter-project-dj84-default-rtdb.firebaseio.com",
+    "project_id": "flutter-project-dj84",
+    "storage_bucket": "flutter-project-dj84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925846579501:android:f5f9df781a76950b188ba4",
+        "android_client_info": {
+          "package_name": "com.example.audio_inspect_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925846579501-snaa3ua9i18it27rpc5btmuqesk5ki7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXEf0YzLGVTz6i5ZocZ4UXD17sR0gxkqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925846579501-snaa3ua9i18it27rpc5btmuqesk5ki7n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925846579501-cs82hti8fs85eagtkmf6me0a4apbu9ue.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.audioInspectApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925846579501:android:5d21d93b3caf66c6188ba4",
+        "android_client_info": {
+          "package_name": "com.daniel.smartbudgetdiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925846579501-o0n7j09n2iq85q084e9s56g3j1ri9qab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daniel.smartbudgetdiary",
+            "certificate_hash": "166ee1de676de3ae3ae7d9273e14b492b76d04a0"
+          }
+        },
+        {
+          "client_id": "925846579501-snaa3ua9i18it27rpc5btmuqesk5ki7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXEf0YzLGVTz6i5ZocZ4UXD17sR0gxkqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925846579501-snaa3ua9i18it27rpc5btmuqesk5ki7n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925846579501-cs82hti8fs85eagtkmf6me0a4apbu9ue.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.audioInspectApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
